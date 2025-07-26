@@ -18,6 +18,7 @@ export const metadata = {
   description:
     "Développeur web freelance spécialisé en React, Next.js et Symfony. Je conçois des applications modernes, performantes et accessibles.",
   keywords: [
+    "Rémi Tafforeau",
     "développeur freelance",
     "Next.js",
     "React",
